@@ -27,6 +27,7 @@ A simple and interactive web application developed using **Python, Streamlit, an
 
    `streamlit run app.py`
 
-## Author
+## Project Goal
 
-Developed as a Machine Learning and Data Analysis project.
+To identify different customer groups using machine learning and help businesses understand customer behavior for better marketing decisions.
+
